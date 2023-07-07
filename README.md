@@ -12,3 +12,5 @@ This repository is an implementation of "Generating Ventilation Images from Virt
 - pickleshare 0.7.4
 - simpleitk 1.2.0
 - scipy 1.1.0
+
+## Deep learning-generated Xe-DECT ventilation images Results
