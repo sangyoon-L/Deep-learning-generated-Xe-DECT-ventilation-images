@@ -17,20 +17,13 @@ This repository is an implementation of "Generating Ventilation Images from Virt
 
 ## Running the Code
 
-### 1. Clone the repository and install dependencies
-```bash
-$ git clone https://github.com/babbu3682/SMART-Net.git
-$ cd SMART-Net/
-$ pip install -r requirements.txt
-```
-
-### 2. Preparing data
+### 1. Preparing data
 #### For your convenience, we have provided few 3D nii samples from [Physionet publish dataset](https://physionet.org/content/ct-ich/1.3.1/) as well as their mask labels. 
 #### Note: We do not use this data as a train, it is just for code publishing examples.
 
-### 3. Train
+### 2. Train
 
-### 4. Test
+### 3. Test
 
 ## License
 
