@@ -15,7 +15,14 @@ This repository is an implementation of "Generating Ventilation Images from Virt
 
 ## Deep learning-generated Xe-DECT ventilation images Results
 
-### Running the Code
+## Files and Documentation
+
+The DL-Vent code to run test image and model are provided.
+
+```
+src\DLMRI_DCNN.zip     - main code
+
+## Running the Code
 
 1. Please contact us to download the VGG16 weights (previously downloadable from [here](https://github.com/ChengBinJin/MRI-to-CT-DCNN-TensorFlow)).
 
