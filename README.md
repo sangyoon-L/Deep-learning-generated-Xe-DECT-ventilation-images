@@ -15,14 +15,6 @@ This repository is an implementation of "Generating Ventilation Images from Virt
 
 ## Deep learning-generated Xe-DECT ventilation images Results
 
-## Files and Documentation
-
-The DL-Vent code to run test image and model are provided.
-
-```
-src\DLMRI_DCNN.zip     - main code
-```
-
 ## Running the Code
 
 ### 1. Clone the repository and install dependencies
