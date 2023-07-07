@@ -20,11 +20,13 @@ This repository is an implementation of "Generating Ventilation Images from Virt
 ### 1. Preparing data
 - The processed hemorrhage directory structure. Valid and test datasets follow the same structure of train dataset
 ```
+Structure format:
 .datasets/train/
     [type of image]/
         [Patient number]/
             [Each DICOM slice of lung CT]
 
+Example:
 .datasets/train/
     inspiratory_CT/
         001/
