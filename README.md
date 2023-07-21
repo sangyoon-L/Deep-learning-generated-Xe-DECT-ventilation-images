@@ -1,5 +1,10 @@
 ## Generative adversarial networks architectures used to generate ventilation images
 
+- Multi-task conditional GAN
+- Multi-task GAN
+- conditional GAN
+- vanilla GAN
+
 ## Multi-task conditional GAN
 <p align="center"><img width="100%" src="/Figures/multitasking conditional GAN architecture.png" /></p>
 
