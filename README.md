@@ -2,9 +2,10 @@
 
 This repository is an implementation of "Generating Ventilation Images from Virtual Non-Contrast Xenon-Enhanced Dual-Energy CT using Multitasking Conditional Generative Adversarial Networks."
 
+## Multi-task conditional GAN
 <p align="center"><img width="100%" src="/Figures/multitasking conditional GAN architecture.png" /></p>
 
-## Multitask GAN
+## Multi-task GAN
 
 ## conditional GAN
 
