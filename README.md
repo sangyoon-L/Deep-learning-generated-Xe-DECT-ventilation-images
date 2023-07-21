@@ -4,6 +4,11 @@ This repository is an implementation of "Generating Ventilation Images from Virt
 
 <p align="center"><img width="100%" src="/Figures/multitasking conditional GAN architecture.png" /></p>
 
+## Multitask GAN
+
+## conditional GAN
+
+## vanilla GAN
 
 
 ## License
