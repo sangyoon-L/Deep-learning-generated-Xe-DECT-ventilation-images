@@ -13,10 +13,8 @@ This repository is an implementation of "Generating Ventilation Images from Virt
 
 ## Deep learning-generated Xe-DECT ventilation images Results
 
-## Running the Code
+### Preparing data
 
-### 1. Preparing data
-- The processed hemorrhage directory structure. Valid and test datasets follow the same structure of train dataset
 ```
 Structure format:
 .datasets/train/
@@ -98,11 +96,6 @@ Example:
 
 .datasets/test/
 ```
-
-### 2. Train
-
-### 3. Test
-
 ## License
 
 MIT License
