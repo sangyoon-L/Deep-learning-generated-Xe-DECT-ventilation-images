@@ -11,6 +11,7 @@ This repository is the record of codes used in "Generating Ventilation Images fr
 - scipy 1.7.3
 - statsmodels 0.10.1
 - scikit-learn 1.0.2
+- pingouin 0.5.3
 
 ## Deep learning-generated Xe-DECT ventilation images Results
 
