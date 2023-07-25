@@ -1,6 +1,6 @@
 ## Deep-learning-generated-Xe-DECT-ventilation-images
 
-This repository is the record of codes used in "Generating Ventilation Images from Virtual Non-Contrast Xenon-Enhanced Dual-Energy CT using Multitasking Conditional Generative Adversarial Networks."
+This repository is the record of codes used in "Generating Ventilation Images from Virtual Non-Contrast Xenon-Enhanced Dual-Energy CT using Multitasking Conditional Generative Adversarial Networks." Codes for deep learning models and analyses can be found in other branches.
 
 ## Requirements
 - tensorflow 1.13.1
