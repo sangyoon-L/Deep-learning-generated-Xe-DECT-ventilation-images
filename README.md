@@ -3,13 +3,13 @@
 This repository is the record of codes used in "Generating Ventilation Images from Virtual Non-Contrast Xenon-Enhanced Dual-Energy CT using Multitasking Conditional Generative Adversarial Networks." Codes for deep learning models and analyses can be found in other branches.
 
 ## Requirements
-- tensorflow 1.13.1
-- numpy 1.15.2
-- opencv 4.1.0.25
-- matplotlib 2.2.3
-- pickleshare 0.7.4
-- simpleitk 1.2.0
-- scipy 1.1.0
+- torch 1.13.0
+- torchvision 0.14.0
+- numpy 1.21.5
+- monai 1.2.dev2305
+- matplotlib 3.1.1
+- scipy 1.7.3
+- statsmodels 0.10.1
 
 ## Deep learning-generated Xe-DECT ventilation images Results
 
