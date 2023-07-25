@@ -1,6 +1,6 @@
 ## Generative adversarial networks architectures used to generate ventilation images
 
-Pix2Pix (ResNet generator and Patch-GAN discriminator)-based GAN models
+Pix2Pix (ResNet generator and Patch-GAN discriminator, https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)-based GAN models
 
 - Multi-task conditional GAN
 - Multi-task GAN
